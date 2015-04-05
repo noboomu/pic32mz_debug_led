@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pic32mx_usb_sk2>
+  <HarmonyPath path="../../../.."/>
+  <ForceOptimization flag="true"/>
+  <Files>
+    <Entry>
+      <Name>system_config.c</Name>
+      <Checksum>A032B81151CAABCDE708997B20EF5CCA</Checksum>
+    </Entry>
+    <Entry>
+      <Name>sys_clk_static.h</Name>
+      <Checksum>5136E2C3EE2A15E666B1927251CBCEAA</Checksum>
+    </Entry>
+    <Entry>
+      <Name>system_definitions.h</Name>
+      <Checksum>EA7494E491AD43BE280947A5818D921E</Checksum>
+    </Entry>
+    <Entry>
+      <Name>system_init.c</Name>
+      <Checksum>B2129E33690383281DF6D54F7058CEC9</Checksum>
+    </Entry>
+    <Entry>
+      <Name>system_tasks.c</Name>
+      <Checksum>96B36D1F26C24807D4F2E83EFB092B3B</Checksum>
+    </Entry>
+    <Entry>
+      <Name>sys_clk_static.c</Name>
+      <Checksum>1C12BC7E23229A3F27A9B38623EB2594</Checksum>
+    </Entry>
+    <Entry>
+      <Name>system_config.h</Name>
+      <Checksum>38C395E7323036506C04E1694060318A</Checksum>
+    </Entry>
+    <Entry>
+      <Name>sys_ports_static.c</Name>
+      <Checksum>8BCDE69573F5C0BB5E7041A42F0AF7EA</Checksum>
+    </Entry>
+    <Entry>
+      <Name>system_interrupt.c</Name>
+      <Checksum>7878A4856D60689F24C302E38D7D88C6</Checksum>
+    </Entry>
+  </Files>
+</pic32mx_usb_sk2>
